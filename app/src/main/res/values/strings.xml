@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Mi Califiacion</string>
+    <string name="felicidades">Felicidades! Aprobaste la materia con </string>
+    <string name="obtuviste_un">Obtuviste un</string>
 </resources>
